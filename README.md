@@ -1,6 +1,4 @@
-# Kayak
-Project Report:
-https://github.com/adityaparmar03/Kayak/blob/master/Kayak_Project_Report.pdf
+
 
 
 
@@ -8,7 +6,7 @@ https://github.com/adityaparmar03/Kayak/blob/master/Kayak_Project_Report.pdf
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```sh
-$ git clone https://github.com/MeenakshiParyani/Kayak.git
+$ git clone https://github.com/d2flyyyy/travelapp.git
 $ cd react-front-end
 $ npm install
 $ npm start
