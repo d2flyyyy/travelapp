@@ -78,7 +78,7 @@ db.MmtFlights.insert({
              ] ,
      'flights':[
                   {
-                     'arrivaltime': '16:00',
+                     'arrivaltime': '14:00',
                        'arrivalday' : 'Thu',
                        'departuretime': '00:00',
                        'departureday' : 'Mon',
